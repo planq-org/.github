@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-This license applies to all projects under the torq-ed GitHub organization, including but not limited to "torqit".
+This license applies to all projects under the torq-ed GitHub organization.
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
