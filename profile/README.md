@@ -1,6 +1,6 @@
-# Welcome to Torq
+# Welcome to Planq
 
-**Torq** is an open source platform for entrance exam preparation - built by students, for students.  
+**Planq** is an open source platform for entrance exam preparation - built by students, for students.  
 We aim to make learning smarter, faster, and more collaborative through well-designed tools and open contributions.
 
 ---
@@ -14,7 +14,7 @@ We aim to make learning smarter, faster, and more collaborative through well-des
 
 ## License
 
-Torq is licensed under the  
+Planq is licensed under the  
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
 This means:
@@ -24,8 +24,3 @@ This means:
 - 🔁 You must share modifications under the same license.
 
 > See the [LICENSE](LICENSE) file for full terms.
-
----
-
-_This project is maintained under the torq-ed organization._  
-_“For Students, By students.”_
