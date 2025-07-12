@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-This license applies to all projects under the torq-ed GitHub organization.
+This license applies to all projects under the planq-org GitHub organization.
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
@@ -18,4 +18,4 @@ Additional terms:
 
 License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-© torq-ed contributors
+© planq-org contributors
